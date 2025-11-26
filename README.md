@@ -28,7 +28,6 @@ kob-car-api/
 │       ├── __init__.py
 │       ├── client.py          # Cliente principal da API
 │       ├── auth.py             # Gerenciamento de autenticação
-│       ├── models.py           # Modelos de dados (dataclasses)
 │       ├── exceptions.py       # Exceções customizadas
 │       ├── validators.py       # Validadores de dados
 │       ├── storage.py          # Persistência de dados
