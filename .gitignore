@@ -138,4 +138,9 @@ logs/*
 *.db
 *.sqlite
 *.sqlite3
+run.xlsx
+nf.xlsx
+reservas.xlsx
+relação_de_vendas.xlsx
+
 
