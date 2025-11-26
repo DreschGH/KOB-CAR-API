@@ -142,5 +142,9 @@ logs/*
 .nf.xlsx
 .reservas.xlsx
 .relação_de_vendas.xlsx
-
-
+gerar_vendas.py
+.gerar_vendas.py
+gcsHandler.py
+.gcsHandler.py
+rotina_atualizardbs.py
+.rotina_atualizardbs.py
