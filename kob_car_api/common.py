@@ -1,4 +1,9 @@
-
+'''
+A Implementar:
+    Logging ao invés de printing
+    Criação de Vendas
+    Criação de Reservas
+'''
 import pandas as pd
 from kob_car_api import KobCARClient, DataStorage, DataProcessor
 from datetime import datetime
